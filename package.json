@@ -1,0 +1,16 @@
+{
+  "name": "whatsappwebgroupfactory",
+  "version": "1.0.0",
+  "description": "whatsapp web group api factory operations",
+  "main": "whatsappGroupFactory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node whatsappGroupFactory.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "1.22.1",
+    "qrcode-terminal": "0.12.0"
+  },
+  "author": "himeshCodes",
+  "license": "ISC"
+}
